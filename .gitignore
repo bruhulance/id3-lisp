@@ -1,0 +1,3 @@
+# the git ignore config
+\#.\#
+*.fasl
